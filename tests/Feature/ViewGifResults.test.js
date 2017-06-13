@@ -1,1 +1,0 @@
-//when i type into the search bar, i want to see a list of gifs based on my search
